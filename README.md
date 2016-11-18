@@ -9,11 +9,6 @@ logged over 4 million possible attacks over the course of a week in 2009.  The g
 trends amongst the given data.  Additionally, this project will hopefully educate the reader on ways to cluster data that is in categorical
 form.
 
-###Data Collection 
+###Data Collection
 
-
-
-
-
-
-
+![alt tag](https://github.com/ajduncan3/ClusteringCyber/blob/master/Annotated_heat_map.png)
