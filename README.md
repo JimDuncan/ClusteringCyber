@@ -11,4 +11,6 @@ form.
 
 ###Data Collection
 
+I downloaded the data in .pcap form from an old data visualization contest for cybersecurity.  Link to contest here: http://2009.hack.lu/index.php/InfoVisContest#data_set.  
+
 ![alt tag](https://github.com/ajduncan3/ClusteringCyber/blob/master/Annotated_heat_map.png)
