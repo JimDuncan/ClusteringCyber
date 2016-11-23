@@ -46,6 +46,10 @@ Probably the most illustrative visualization is the two graphs below.  This data
 Immediately, below are the destination countries with the frequency of attack per country.  The second graph is the
 exact same information but shows how the 500 observations ended being clustered.
 
+![alt tag](https://github.com/ajduncan3/ClusteringCyber/blob/master/Graphs/Dest_IP_freq.png)
+
+![alt tag](https://github.com/ajduncan3/ClusteringCyber/blob/master/Graphs/Dest_IP_Clusters.png)
+
 ###Next Steps
 
 Use MCA,multiple categorical analysis, to further reduce the dimensionality of the data and hopefully
